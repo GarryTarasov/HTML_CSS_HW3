@@ -23,21 +23,6 @@ img {
     /*центрирование контента 660 px это размер контента делим пополам */
 }
 
-@font-face {
-    font-family: Gilroy-Bold;
-    src: url(/seminar_4/Font/Gilroy-Bold.woff2);
-}
-
-@font-face {
-    font-family: Gilroy-Medium;
-    src: url(/seminar_4/Font/Gilroy-Medium.woff2);
-}
-
-@font-face {
-    font-family: Gilroy-Semibold;
-    src: url(/seminar_4/Font/Gilroy-Semibold.woff2);
-}
-
 header {
     margin: 14px 18px 0px 18px;
     display: flex;
